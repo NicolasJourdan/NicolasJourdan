@@ -5,11 +5,18 @@ Engineer in Computer Science at CPE Lyon 🎓, I’m passionate about clean arch
 
 ---
 
-## 🎤 Talks & Community
+## 👥 Community
 
-- [**AFUP Day Lyon 2025** — *L'ETL, ce qu'il vous manquait pour intégrer vos clients*](http://event.afup.org/afup-day-2025/afup-day-2025-lyon/programme/#5026)
-- [**Apéro Web Lyon** — *Mieux gérer vos notifications avec Symfony Notifier*](http://meetup.com/apero-web-lyon/events/289600667)
-- [**Apéro Web Lyon** — *Specification, Rules, Chain of Responsibility*](http://meetup.com/apero-web-lyon/events/273425733)
+### 🎤 Talks
+
+- [**L'ETL, ce qu'il vous manquait pour intégrer vos clients** - *AFUP Day Lyon 2025*](http://event.afup.org/afup-day-2025/afup-day-2025-lyon/programme/#5026)
+- [**Mieux gérer vos notifications avec Symfony Notifier** - *Apéro Web Lyon*](http://meetup.com/apero-web-lyon/events/289600667)
+- [**Specification, Rules, Chain of Responsibility** - *Apéro Web Lyon*](http://meetup.com/apero-web-lyon/events/273425733)
+
+### ✍️ Posts
+
+- [**Create a custom channel into Symfony Notifier**](https://nicolas-jourdan.medium.com/create-a-custom-channel-into-symfony-notifier-487fc7333cf7)
+- [**Git, a brief history of versions**](https://nicolas-jourdan.medium.com/git-a-brief-history-of-versions-cb4a6eccd33f)
 
 ---
 
