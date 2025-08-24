@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hello, I'm Nicolas Jourdan  
 
-<!--
-**NicolasJourdan/NicolasJourdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead Tech & Manager at [Smart Traffik](https://www.smart-traffik.io), I build and scale web platforms while leading development teams.  
+Engineer in Computer Science at CPE Lyon 🎓, I’m passionate about clean architecture, developer experience, and knowledge sharing.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎤 Talks & Community
+
+- [**AFUP Day Lyon 2025** — *L'ETL, ce qu'il vous manquait pour intégrer vos clients*](http://event.afup.org/afup-day-2025/afup-day-2025-lyon/programme/#5026)
+- [**Apéro Web Lyon** — *Mieux gérer vos notifications avec Symfony Notifier*](http://meetup.com/apero-web-lyon/events/289600667)
+- [**Apéro Web Lyon** — *Specification, Rules, Chain of Responsibility*](http://meetup.com/apero-web-lyon/events/273425733)
+
+---
+
+## 🛠️ Tech Focus
+
+- **Backend** → PHP 8.3, Symfony 7.4, RabbitMQ
+- **Frontend** → VueJS 3, NextJS 15, React 19
+- **Data & Search** → MySQL, PostgreSQL, ElasticSearch, Redis
+- **Infrastructure** → Docker, Ansible, CI/CD pipelines
+- **Practices** → Domain-Driven Design, Clean Code, Agile, Technical Leadership
+
+---
+
+## 📜 Certification
+
+- Symfony Certified  
+
+---
+
+## 🌍 Find me online
+
+- [![GitHub](https://img.shields.io/badge/-181717?logo=github&logoColor=white)](https://github.com/NicolasJourdan)[GitHub](https://github.com/NicolasJourdan)
+- [![Medium](https://img.shields.io/badge/-12100E?logo=medium&logoColor=white)](https://nicolas-jourdan.medium.com)[Medium](https://nicolas-jourdan.medium.com)
+- [![LinkedIn](https://img.shields.io/badge/in-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasjourdanc)[LinkedIn](https://linkedin.com/in/nicolasjourdanc) 
+- [![X (Twitter)](https://img.shields.io/badge/-000000?logo=x&logoColor=white)](https://x.com/NicolasJourdan_)[X (Twitter)](https://x.com/NicolasJourdan_)
+
+---
