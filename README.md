@@ -15,6 +15,13 @@ Engineer in Computer Science at CPE Lyon 🎓, I’m passionate about clean arch
 
 ### ✍️ Posts
 
+- [**Pragmatic application caching with Symfony Cache: Pools, Tags and Invalidation**](https://medium.com/@nicolas-jourdan/pragmatic-application-caching-with-symfony-cache-pools-tags-and-invalidation-51a49e9caa0f)
+- [**How tech leads can guide technical design decisions without hijacking the discussion**](https://medium.com/@nicolas-jourdan/how-tech-leads-can-guide-technical-design-decisions-without-hijacking-the-discussion-f17e14cbd278)
+- [**Atomic Commits & Conventional Commits: The missing discipline in your Git Workflow**](https://medium.com/@nicolas-jourdan/atomic-commits-conventional-commits-the-missing-discipline-in-your-git-workflow-47a612ad8236)
+- [**Chain of Responsibility, Rule, Specification… How to combine three patterns to make your business flexible**](https://medium.com/@nicolas-jourdan/chain-of-responsibility-rule-specification-how-to-combine-three-patterns-to-make-your-business-aba9f433dcce)
+- [**Building custom Symfony Console Commands like a pro (with Symfony 7.4)**](https://medium.com/@nicolas-jourdan/building-custom-symfony-console-commands-like-a-pro-with-symfony-7-4-aa368d065684)
+- [**Mastering Symfony Workflow Component with Symfony 7.4’s Weighted Transitions**](https://medium.com/@nicolas-jourdan/mastering-symfony-workflow-component-with-symfony-7-4s-weighted-transitions-854f405600b5)
+- [**Building a Multi-Tenant SaaS in Symfony — The Pragmatic Way**](https://medium.com/@nicolas-jourdan/building-a-multi-tenant-saas-in-symfony-the-pragmatic-way-0dac843aca42)
 - [**Create a custom channel into Symfony Notifier**](https://nicolas-jourdan.medium.com/create-a-custom-channel-into-symfony-notifier-487fc7333cf7)
 - [**Git, a brief history of versions**](https://nicolas-jourdan.medium.com/git-a-brief-history-of-versions-cb4a6eccd33f)
 
