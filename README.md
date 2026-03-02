@@ -15,6 +15,8 @@ Engineer in Computer Science at CPE Lyon 🎓, I’m passionate about clean arch
 
 ### ✍️ Posts
 
+- [**Service decoration in Symfony: The most underused architectural lever**](https://medium.com/@nicolas-jourdan/service-decoration-in-symfony-the-most-underused-architectural-lever-b190a77f7859)
+- [**Mastering Symfony Rate Limiting: Compound Limits done right**](https://medium.com/@nicolas-jourdan/mastering-symfony-rate-limiting-compound-limits-done-right-e4824215e2d8)
 - [**Pragmatic application caching with Symfony Cache: Pools, Tags and Invalidation**](https://medium.com/@nicolas-jourdan/pragmatic-application-caching-with-symfony-cache-pools-tags-and-invalidation-51a49e9caa0f)
 - [**How tech leads can guide technical design decisions without hijacking the discussion**](https://medium.com/@nicolas-jourdan/how-tech-leads-can-guide-technical-design-decisions-without-hijacking-the-discussion-f17e14cbd278)
 - [**Atomic Commits & Conventional Commits: The missing discipline in your Git Workflow**](https://medium.com/@nicolas-jourdan/atomic-commits-conventional-commits-the-missing-discipline-in-your-git-workflow-47a612ad8236)
