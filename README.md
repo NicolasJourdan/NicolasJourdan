@@ -15,6 +15,12 @@ Engineer in Computer Science at CPE Lyon 🎓, I’m passionate about clean arch
 
 ### ✍️ Posts
 
+- [**Deep dive into Symfony 8.1’s Console image input**](https://nicolas-jourdan.medium.com/deep-dive-into-symfony-8-1s-console-image-input-2f2ab1be172e)
+- [**Stop binding Symfony Forms to your entities**](https://nicolas-jourdan.medium.com/stop-binding-symfony-forms-to-your-entities-0e52ab9d0323)
+- [**Stop gluing strings together like it’s 2008, use Symfony String**](https://nicolas-jourdan.medium.com/stop-gluing-strings-together-like-its-2008-use-symfony-string-f918d75ebffb)
+- [**Symfony Lock + Workflow: Taming the Race Condition that will hit you in production**](https://nicolas-jourdan.medium.com/symfony-lock-workflow-taming-the-race-condition-that-will-hit-you-in-production-d04613e0b6a8)
+- [**Mastering Time in Symfony with the Clock Component**](https://nicolas-jourdan.medium.com/mastering-time-in-symfony-with-the-clock-component-d0caab0e38af)
+- [**Mastering Symfony Scheduler: from cron chaos to reliable jobs**](https://nicolas-jourdan.medium.com/mastering-symfony-scheduler-from-cron-chaos-to-reliable-jobs-af85f32951a3)
 - [**Service decoration in Symfony: The most underused architectural lever**](https://medium.com/@nicolas-jourdan/service-decoration-in-symfony-the-most-underused-architectural-lever-b190a77f7859)
 - [**Mastering Symfony Rate Limiting: Compound Limits done right**](https://medium.com/@nicolas-jourdan/mastering-symfony-rate-limiting-compound-limits-done-right-e4824215e2d8)
 - [**Pragmatic application caching with Symfony Cache: Pools, Tags and Invalidation**](https://medium.com/@nicolas-jourdan/pragmatic-application-caching-with-symfony-cache-pools-tags-and-invalidation-51a49e9caa0f)
@@ -31,8 +37,8 @@ Engineer in Computer Science at CPE Lyon 🎓, I’m passionate about clean arch
 
 ## 🛠️ Tech Focus
 
-- **Backend** → PHP 8.3, Symfony 7.4, RabbitMQ
-- **Frontend** → VueJS 3, NextJS 15, React 19
+- **Backend** → PHP 8.3, Symfony 8.1, RabbitMQ
+- **Frontend** → VueJS 3, NextJS 16, React 19
 - **Data & Search** → MySQL, PostgreSQL, ElasticSearch, Redis
 - **Infrastructure** → Docker, Ansible, CI/CD pipelines
 - **Practices** → Domain-Driven Design, Clean Code, Agile, Technical Leadership
